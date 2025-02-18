@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 .container {
+    width: 1055px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
